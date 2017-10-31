@@ -14,7 +14,7 @@ function forLoop(array) {
     }
     return 'done'
   }
-  
+
   function maybeTrue() {
     return Math.random() >= 0.5
   }
